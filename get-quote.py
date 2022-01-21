@@ -1,6 +1,3 @@
-git add get-quote.py
-git commit -m "Hello World"
-git push
 
 def main():
   print("Keep it logically awesome.")
